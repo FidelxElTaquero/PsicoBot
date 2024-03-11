@@ -28,5 +28,19 @@
 
 Reglas
 
-1. Ansiedad
-2. 
+| Ansiedad           | Estado de ánimo    | Pensamientos negativos     | Evaluación | Consejos          | Asignación de profesional |
+|--------------------|--------------------|-----------------------------|------------|-------------------|-----------------------------|
+| Mucha ansiedad     | Bajo               | Muy frecuente               | Alta       | Necesarios        | Recomendada                 |
+| Mucha ansiedad     | Regular            | Regularmente frecuente      | Alta       | Necesarios        | Recomendada                 |
+| Mucha ansiedad     | Bueno              | Poco frecuente              | Moderada   | Útiles            | Posible                     |
+| Mucha ansiedad     | Bueno              | Poco frecuente              | Baja       | Opcionales        | Innecesaria                 |
+| Moderada ansiedad  | Bajo               | Muy frecuente               | Alta       | Necesarios        | Recomendada                 |
+| Moderada ansiedad  | Regular            | Regularmente frecuente      | Moderada   | Útiles            | Posible                     |
+| Moderada ansiedad  | Bueno              | Poco frecuente              | Baja       | Opcionales        | Innecesaria                 |
+| Poca ansiedad      | Bajo               | Muy frecuente               | Moderada   | Útiles            | Posible                     |
+| Poca ansiedad      | Regular            | Regularmente frecuente      | Baja       | Opcionales        | Innecesaria                 |
+| Poca ansiedad      | Bueno              | Poco frecuente              | Muy Baja   | Innecesarios      | Innecesaria                 |
+| Nula               | Bajo               | Muy frecuente               | Muy Baja   | Innecesarios      | Innecesaria                 |
+| Nula               | Regular            | Regularmente frecuente      | Muy Baja   | Innecesarios      | Innecesaria                 |
+| Nula               | Bueno              | Poco frecuente              | Muy Baja   | Innecesarios      | Innecesaria                 |
+
