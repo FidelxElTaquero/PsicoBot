@@ -25,3 +25,8 @@
 #### Evaluacion
 #### Consejos
 #### Asignacion de profecional
+
+Reglas
+
+1. Ansiedad
+2. 
